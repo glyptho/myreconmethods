@@ -7,6 +7,13 @@ This repo contains my recon methodology for Bug Bounty Programms
    RECONFTW,WAPITI,WPSCAN,
    https://github.com/j3ssie/Osmedeus
    https://github.com/1N3/Sn1per
+   https://github.com/OWASP/Nettacker
+   https://github.com/0xJin/awesome-bugbounty-builder
+   https://github.com/chaitin/xray
+   https://github.com/Dheerajmadhukar/karma_v2
+   https://github.com/Huntinex/rauton
+   https://github.com/m4ll0k/BBTz
+   
    
 3. SUBDomain Enumaration tool:
    https://github.com/iamthefrogy/frogy
@@ -15,11 +22,15 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://spyse.com/tools/subdomain-finder
    https://github.com/guelfoweb/knock
    https://github.com/shmilylty/OneForAll
+   http://tools.bugscaner.com/subdomain/
+   http://tool.chinaz.com/subdomain/
    
 4. Find Parameters for Domain and Subdomain from webarchieve
    https://github.com/devanshbatham/ParamSpider
    https://github.com/GerbenJavado/LinkFinder
    https://github.com/Sh1Yo/x8
+   https://github.com/s0md3v/Arjun
+   
 4. SUBDomain Takeover check:
    https://github.com/r3curs1v3-pr0xy/sub404
    
@@ -35,3 +46,25 @@ This repo contains my recon methodology for Bug Bounty Programms
    API Endpoints & Objects
    https://gist.github.com/yassineaboukir/8e12adefbd505ef704674ad6ad48743d
    https://github.com/danielmiessler/SecLists
+   
+8. Nuclei Templates
+   https://github.com/geeknik/the-nuclei-templates
+   https://github.com/ethicalhackingplayground/erebus
+   
+9. Web Cache Vulnerability Scanner (WCVS)
+   https://github.com/glyptho/Web-Cache-Vulnerability-Scanner
+   
+10. Hack Website Admin Panel
+    https://github.com/glyptho/AdminHack
+11. Secret Key Finder
+    https://github.com/rsbarsania/secret_key_finder
+    
+    
+12. GOOGLE DORKS SCAN
+    https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan
+    
+ 13. Check for Host-Header SSRF Attack on a single or multiple hosts
+     https://github.com/abundov/mahost
+     
+ 14. Git Secret Find
+     https://github.com/daffainfo/Git-Secret
