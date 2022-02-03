@@ -1,0 +1,37 @@
+Hello,
+This repo contains my recon methodology for Bug Bounty Programms
+
+1. Find the Suitable Targer and Scope of the target.
+
+2. Now use automated tools for recon.
+   RECONFTW,WAPITI,WPSCAN,
+   https://github.com/j3ssie/Osmedeus
+   https://github.com/1N3/Sn1per
+   
+3. SUBDomain Enumaration tool:
+   https://github.com/iamthefrogy/frogy
+   https://github.com/edoardottt/scilla
+   https://github.com/Findomain/Findomain
+   https://spyse.com/tools/subdomain-finder
+   https://github.com/guelfoweb/knock
+   https://github.com/shmilylty/OneForAll
+   
+4. Find Parameters for Domain and Subdomain from webarchieve
+   https://github.com/devanshbatham/ParamSpider
+   https://github.com/GerbenJavado/LinkFinder
+   https://github.com/Sh1Yo/x8
+4. SUBDomain Takeover check:
+   https://github.com/r3curs1v3-pr0xy/sub404
+   
+5. Log4Shell Check:
+   https://github.com/fullhunt/log4j-scan
+   
+6. CVELIST
+   https://github.com/CVEProject/cvelist
+   
+7. Wordlists:
+   Funny Fuzzing Wordlist
+   https://github.com/koaj/ffw-content-discovery
+   API Endpoints & Objects
+   https://gist.github.com/yassineaboukir/8e12adefbd505ef704674ad6ad48743d
+   https://github.com/danielmiessler/SecLists
