@@ -13,6 +13,8 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/Dheerajmadhukar/karma_v2
    https://github.com/Huntinex/rauton
    https://github.com/m4ll0k/BBTz
+   https://github.com/Ascotbe/Medusa
+   https://github.com/chaitin/xray
    
    
 3. SUBDomain Enumaration tool:
@@ -68,3 +70,11 @@ This repo contains my recon methodology for Bug Bounty Programms
      
  14. Git Secret Find
      https://github.com/daffainfo/Git-Secret
+     https://github.com/glyptho/gitGraber
+     
+ 15. PUT Method Exploit
+     https://github.com/devploit/put2win
+     
+     
+ 16. BugBounty Tools
+     https://forum.ywhack.com/bountytips.php?redteam
