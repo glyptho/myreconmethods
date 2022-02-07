@@ -6,6 +6,10 @@ This repo contains my recon methodology for Bug Bounty Programms
 2. Now use automated tools for recon.
    RECONFTW,WAPITI,WPSCAN,
    https://github.com/j3ssie/Osmedeus
+   https://github.com/Viralmaniar/BigBountyRecon gui recon
+   https://github.com/R0X4R/Garud
+   https://github.com/knassar702/scant3r
+   https://github.com/ninoseki/mihari
    https://github.com/1N3/Sn1per
    https://github.com/OWASP/Nettacker
    https://github.com/0xJin/awesome-bugbounty-builder
@@ -15,6 +19,18 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/m4ll0k/BBTz
    https://github.com/Ascotbe/Medusa
    https://github.com/chaitin/xray
+   https://github.com/anmolksachan/TheTimeMachine
+   https://github.com/zhzyker/vulmap
+   https://github.com/riskscanner/riskscanner
+   https://github.com/78778443/QingScan
+   https://github.com/0x727/ShuiZe_0x727
+   https://github.com/j3ssie/osmedeus
+   https://github.com/Huntinex/rauton
+   https://github.com/Dheerajmadhukar/karma_v2
+   https://github.com/xerohackcom/webrecon
+   https://github.com/yogeshojha/rengine
+   https://github.com/robotshell/magicRecon
+   
    
    
 3. SUBDomain Enumaration tool:
@@ -26,6 +42,8 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/shmilylty/OneForAll
    http://tools.bugscaner.com/subdomain/
    http://tool.chinaz.com/subdomain/
+   https://github.com/gwen001/github-subdomains
+   
    
 4. Find Parameters for Domain and Subdomain from webarchieve
    https://github.com/devanshbatham/ParamSpider
@@ -35,46 +53,174 @@ This repo contains my recon methodology for Bug Bounty Programms
    
 4. SUBDomain Takeover check:
    https://github.com/r3curs1v3-pr0xy/sub404
+   https://github.com/m4ll0k/takeover
+   https://github.com/TheBinitGhimire/GH-Takeover
+   https://github.com/TheBinitGhimire/NtHiM
+   https://github.com/ethicalhackingplayground/SubNuke
    
 5. Log4Shell Check:
    https://github.com/fullhunt/log4j-scan
+   https://github.com/zhzyker/logmap
+   https://github.com/trickest/log4j
+   https://github.com/fox-it/log4j-finder
+   https://github.com/wyzxxz/jndi_tool
    
 6. CVELIST
    https://github.com/CVEProject/cvelist
    
-7. Wordlists:
+   Important Wordlists:
    Funny Fuzzing Wordlist
    https://github.com/koaj/ffw-content-discovery
+   https://github.com/aels/subdirectories-discover
+   https://github.com/emadshanab/WordLists-20111129
+   https://github.com/six2dez/OneListForAll
+   https://github.com/ayoubfathi/leaky-paths/blob/main/leaky-paths.txt
+   
    API Endpoints & Objects
    https://gist.github.com/yassineaboukir/8e12adefbd505ef704674ad6ad48743d
    https://github.com/danielmiessler/SecLists
    
-8. Nuclei Templates
+   Nuclei Templates
    https://github.com/geeknik/the-nuclei-templates
    https://github.com/ethicalhackingplayground/erebus
+   https://github.com/trickest/log4j
+   https://github.com/0xAwali/Blind-SSRF
+   https://github.com/NitinYadav00/My-Nuclei-Templates
+   https://github.com/emadshanab/Nuclei-Templates-Collection
+   https://github.com/sharathkramadas/k8s-nuclei-templates
+   https://github.com/projectdiscovery/nuclei-templates
    
-9. Web Cache Vulnerability Scanner (WCVS)
-   https://github.com/glyptho/Web-Cache-Vulnerability-Scanner
+    Web Cache Vulnerability Scanner (WCVS)
+    https://github.com/glyptho/Web-Cache-Vulnerability-Scanner
+    https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner
+    
+    A fast tool to scan CRLF vulnerability written in Go
+    https://github.com/dwisiswant0/crlfuzz
    
-10. Hack Website Admin Panel
+   HTTP Request smuggling tool
+   https://github.com/danielthatcher/smuggles
+   https://github.com/defparam/smuggler
+   
+   Java RMI Vulnerability Scanner
+   https://github.com/qtc-de/remote-method-guesser
+   
+   Automatic SSRF fuzzer and exploitation tool
+   https://github.com/swisskyrepo/SSRFmap
+   https://github.com/ksharinarayanan/SSRFire
+   https://github.com/abundov/mahost
+   https://github.com/knassar702/lorsrf
+   https://github.com/epinna/tplmap
+   
+   
+   AUTOMATIC CHECK OPEN REDIRECT
+   https://github.com/devanshbatham/OpenRedireX
+   https://github.com/redcode-labs/UnChain
+   
+    Hack Website Admin Panel
     https://github.com/glyptho/AdminHack
-11. Secret Key Finder
+    
+    Secret Key Finder
+    https://github.com/rsbarsania/secret_key_finder
+    https://github.com/nsonaniya2010/SubDomainizer
     https://github.com/rsbarsania/secret_key_finder
     
     
-12. GOOGLE DORKS SCAN
+    GOOGLE DORKS SCAN
     https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan
+    https://github.com/dievus/msdorkdump
+    https://github.com/APTeamOfficial/APSoft-Web-Scanner-v2
+    https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Google%20Dorks.md
+    https://github.com/mxrch/GHunt
     
- 13. Check for Host-Header SSRF Attack on a single or multiple hosts
+    SHODAN DORKS
+    https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Shodan%20Dorks.md
+    
+     Check for Host-Header SSRF Attack on a single or multiple hosts
      https://github.com/abundov/mahost
      
- 14. Git Secret Find
+     Git Secret Find
      https://github.com/daffainfo/Git-Secret
+     https://github.com/obheda12/GitDorker
      https://github.com/glyptho/gitGraber
+     https://github.com/molly/gh-dork
+     https://github.com/gwen001/github-regexp
+     https://github.com/zricethezav/gitleaks
+     https://github.com/awslabs/git-secrets
+     https://github.com/BishopFox/GitGot
+     https://github.com/UnkL4b/GitMiner
+     https://github.com/daffainfo/Git-Secret
+     https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Github%20Dorks.md
      
- 15. PUT Method Exploit
+     PUT Method Exploit
      https://github.com/devploit/put2win
      
      
- 16. BugBounty Tools
+     BugBounty Tools
      https://forum.ywhack.com/bountytips.php?redteam
+     
+      Directory bruteforce
+      https://github.com/epi052/feroxbuster
+      
+   Find XSS Automatically
+   https://github.com/Encryptor-Sec/XSSearch
+   
+   403 BYPASS
+   https://github.com/devploit/dontgo403
+   https://github.com/yunemse48/403bypasser
+   https://github.com/Dheerajmadhukar/4-ZERO-3
+   https://github.com/M4DM0e/DirDar
+   https://github.com/lobuhi/byp4xx
+   
+   osint search
+   https://github.com/jivoi/awesome-osint
+   https://github.com/KingOfBugbounty/KingOfBugBountyTips
+   
+   Download .git directory
+   https://github.com/internetwache/GitTools
+   
+   Download .DS_STORE FIles
+   https://github.com/lijiejie/ds_store_exp
+   
+   DECRYPT STRINGS
+   https://github.com/Ciphey/Ciphey
+   
+   SQLI INJECTION
+   https://github.com/ArkAngeL43/sqlifinder
+   https://github.com/MR-pentestGuy/Blind-sqli
+   https://github.com/JohnTroony/Blisqy
+   https://github.com/zeronine9/Blind_SPOT
+   
+   FIND ORIGINAL IP BEHIND WAF
+   https://github.com/christophetd/CloudFlair
+   https://github.com/boy-hack/w8fuckcdn
+   https://github.com/Startr4ck/findip
+   https://github.com/Dheerajmadhukar/Lilly
+   
+   DOM XSS FINDER
+   https://github.com/dwisiswant0/findom-xss
+   https://github.com/swoops/eval_villain
+   
+   S3 VIEWER GUI
+   https://github.com/SharonBrizinov/s3viewer
+   https://github.com/iamthefrogy/bucketbunny
+   
+   LFI SCANNER
+   https://github.com/mzfr/liffy
+   
+   BLIND XSS TESTING
+   https://github.com/emadshanab/Blind-xss-via-ffuf
+   
+   BUG BOUNTY DORKS
+   https://github.com/sushiwushi/bug-bounty-dorks
+   
+   DIRECTORY BRUTEFORCE
+   https://github.com/epi052/feroxbuster
+   
+   FIND SENSITIVE FILES IN WAYBACKURLS
+   https://github.com/Dheerajmadhukar/back-me-up
+   
+   FIND HIDDEN ENDPOINTS INSIDE JAVASCRIPT FILES
+   https://github.com/GerbenJavado/LinkFinder
+   https://github.com/dwisiswant0/galer#installation
+   https://github.com/0x240x23elu/JSScanner
+   https://github.com/m4ll0k/SecretFinder
