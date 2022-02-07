@@ -110,7 +110,8 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/abundov/mahost
    https://github.com/knassar702/lorsrf
    https://github.com/epinna/tplmap
-   
+   Check for Host-Header SSRF Attack on a single or multiple hosts
+   https://github.com/abundov/mahost
    
    AUTOMATIC CHECK OPEN REDIRECT
    https://github.com/devanshbatham/OpenRedireX
@@ -135,8 +136,7 @@ This repo contains my recon methodology for Bug Bounty Programms
     SHODAN DORKS
     https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Shodan%20Dorks.md
     
-     Check for Host-Header SSRF Attack on a single or multiple hosts
-     https://github.com/abundov/mahost
+
      
      Git Secret Find
      https://github.com/daffainfo/Git-Secret
