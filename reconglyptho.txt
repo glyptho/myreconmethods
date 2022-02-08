@@ -51,24 +51,24 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/Sh1Yo/x8
    https://github.com/s0md3v/Arjun
    
-4. SUBDomain Takeover check:
+5. SUBDomain Takeover check:
    https://github.com/r3curs1v3-pr0xy/sub404
    https://github.com/m4ll0k/takeover
    https://github.com/TheBinitGhimire/GH-Takeover
    https://github.com/TheBinitGhimire/NtHiM
    https://github.com/ethicalhackingplayground/SubNuke
    
-5. Log4Shell Check:
+6. Log4Shell Check:
    https://github.com/fullhunt/log4j-scan
    https://github.com/zhzyker/logmap
    https://github.com/trickest/log4j
    https://github.com/fox-it/log4j-finder
    https://github.com/wyzxxz/jndi_tool
    
-6. CVELIST
+7. CVELIST
    https://github.com/CVEProject/cvelist
    
-   Important Wordlists:
+8. Important Wordlists:
    Funny Fuzzing Wordlist
    https://github.com/koaj/ffw-content-discovery
    https://github.com/aels/subdirectories-discover
@@ -76,11 +76,11 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/six2dez/OneListForAll
    https://github.com/ayoubfathi/leaky-paths/blob/main/leaky-paths.txt
    
-   API Endpoints & Objects
+9. API Endpoints & Objects
    https://gist.github.com/yassineaboukir/8e12adefbd505ef704674ad6ad48743d
    https://github.com/danielmiessler/SecLists
    
-   Nuclei Templates
+10.Nuclei Templates
    https://github.com/geeknik/the-nuclei-templates
    https://github.com/ethicalhackingplayground/erebus
    https://github.com/trickest/log4j
@@ -90,21 +90,25 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/sharathkramadas/k8s-nuclei-templates
    https://github.com/projectdiscovery/nuclei-templates
    
-    Web Cache Vulnerability Scanner (WCVS)
+11. Web Cache Vulnerability Scanner (WCVS)
     https://github.com/glyptho/Web-Cache-Vulnerability-Scanner
     https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner
     
-    A fast tool to scan CRLF vulnerability written in Go
+12. A fast tool to scan CRLF vulnerability written in Go
     https://github.com/dwisiswant0/crlfuzz
    
-   HTTP Request smuggling tool
+13.HTTP Request smuggling tool
    https://github.com/danielthatcher/smuggles
    https://github.com/defparam/smuggler
    
-   Java RMI Vulnerability Scanner
+14. Shiro RememberMe 1.2.4 Deserialization Vulnerability Graphical Detection Tool (Shiro-550)
+    https://github.com/fupinglee/ShiroScan
+
+   
+15.Java RMI Vulnerability Scanner
    https://github.com/qtc-de/remote-method-guesser
    
-   Automatic SSRF fuzzer and exploitation tool
+16.Automatic SSRF fuzzer and exploitation tool
    https://github.com/swisskyrepo/SSRFmap
    https://github.com/ksharinarayanan/SSRFire
    https://github.com/abundov/mahost
@@ -113,32 +117,31 @@ This repo contains my recon methodology for Bug Bounty Programms
    Check for Host-Header SSRF Attack on a single or multiple hosts
    https://github.com/abundov/mahost
    
-   AUTOMATIC CHECK OPEN REDIRECT
+17.AUTOMATIC CHECK OPEN REDIRECT
    https://github.com/devanshbatham/OpenRedireX
    https://github.com/redcode-labs/UnChain
    
-    Hack Website Admin Panel
+18. Hack Website Admin Panel
     https://github.com/glyptho/AdminHack
     
-    Secret Key Finder
+19. Secret Key Finder
     https://github.com/rsbarsania/secret_key_finder
     https://github.com/nsonaniya2010/SubDomainizer
     https://github.com/rsbarsania/secret_key_finder
     
     
-    GOOGLE DORKS SCAN
+  20.GOOGLE DORKS
     https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan
     https://github.com/dievus/msdorkdump
     https://github.com/APTeamOfficial/APSoft-Web-Scanner-v2
     https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Google%20Dorks.md
     https://github.com/mxrch/GHunt
     
-    SHODAN DORKS
-    https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Shodan%20Dorks.md
-    
+ 21.SHODAN DORKS
+    https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Shodan%20Dorks.md    
 
      
-     Git Secret Find
+ 22. Git Secret Find
      https://github.com/daffainfo/Git-Secret
      https://github.com/obheda12/GitDorker
      https://github.com/glyptho/gitGraber
@@ -151,75 +154,75 @@ This repo contains my recon methodology for Bug Bounty Programms
      https://github.com/daffainfo/Git-Secret
      https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Github%20Dorks.md
      
-     PUT Method Exploit
+23.  PUT Method Exploit
      https://github.com/devploit/put2win
      
      
-     BugBounty Tools
+24.  BugBounty Tools
      https://forum.ywhack.com/bountytips.php?redteam
      
-      Directory bruteforce
+25.   Directory bruteforce
       https://github.com/epi052/feroxbuster
       
-   Find XSS Automatically
+26.Find XSS Automatically
    https://github.com/Encryptor-Sec/XSSearch
    
-   403 BYPASS
+27.403 BYPASS
    https://github.com/devploit/dontgo403
    https://github.com/yunemse48/403bypasser
    https://github.com/Dheerajmadhukar/4-ZERO-3
    https://github.com/M4DM0e/DirDar
    https://github.com/lobuhi/byp4xx
    
-   osint search
+28.osint search
    https://github.com/jivoi/awesome-osint
    https://github.com/KingOfBugbounty/KingOfBugBountyTips
    
-   Download .git directory
+29.Download .git directory
    https://github.com/internetwache/GitTools
    
-   Download .DS_STORE FIles
+30.Download .DS_STORE FIles
    https://github.com/lijiejie/ds_store_exp
    
-   DECRYPT STRINGS
+31.DECRYPT STRINGS
    https://github.com/Ciphey/Ciphey
    
-   SQLI INJECTION
+32.SQLI INJECTION
    https://github.com/ArkAngeL43/sqlifinder
    https://github.com/MR-pentestGuy/Blind-sqli
    https://github.com/JohnTroony/Blisqy
    https://github.com/zeronine9/Blind_SPOT
    
-   FIND ORIGINAL IP BEHIND WAF
+33.FIND ORIGINAL IP BEHIND WAF
    https://github.com/christophetd/CloudFlair
    https://github.com/boy-hack/w8fuckcdn
    https://github.com/Startr4ck/findip
    https://github.com/Dheerajmadhukar/Lilly
    
-   DOM XSS FINDER
+34.DOM XSS FINDER
    https://github.com/dwisiswant0/findom-xss
    https://github.com/swoops/eval_villain
    
-   S3 VIEWER GUI
+35.S3 VIEWER GUI
    https://github.com/SharonBrizinov/s3viewer
    https://github.com/iamthefrogy/bucketbunny
    
-   LFI SCANNER
+36.LFI SCANNER
    https://github.com/mzfr/liffy
    
-   BLIND XSS TESTING
+37.BLIND XSS TESTING
    https://github.com/emadshanab/Blind-xss-via-ffuf
    
-   BUG BOUNTY DORKS
+38.BUG BOUNTY DORKS
    https://github.com/sushiwushi/bug-bounty-dorks
    
-   DIRECTORY BRUTEFORCE
+39.DIRECTORY BRUTEFORCE
    https://github.com/epi052/feroxbuster
    
-   FIND SENSITIVE FILES IN WAYBACKURLS
+40.FIND SENSITIVE FILES IN WAYBACKURLS
    https://github.com/Dheerajmadhukar/back-me-up
    
-   FIND HIDDEN ENDPOINTS INSIDE JAVASCRIPT FILES
+41.FIND HIDDEN ENDPOINTS INSIDE JAVASCRIPT FILES
    https://github.com/GerbenJavado/LinkFinder
    https://github.com/dwisiswant0/galer#installation
    https://github.com/0x240x23elu/JSScanner
