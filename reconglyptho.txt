@@ -223,6 +223,7 @@ This repo contains my recon methodology for Bug Bounty Programms
 40.FIND SENSITIVE FILES IN WAYBACKURLS
    https://github.com/Dheerajmadhukar/back-me-up
    https://github.com/remonsec/Pri0tx
+   sudo mv otx /usr/bin/otx
    
 41.FIND HIDDEN ENDPOINTS INSIDE JAVASCRIPT FILES
    https://github.com/GerbenJavado/LinkFinder
