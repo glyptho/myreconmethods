@@ -206,6 +206,7 @@ This repo contains my recon methodology for Bug Bounty Programms
 35.S3 VIEWER GUI
    https://github.com/SharonBrizinov/s3viewer
    https://github.com/iamthefrogy/bucketbunny
+   https://github.com/0xmoot/s3sec
    
 36.LFI SCANNER
    https://github.com/mzfr/liffy
@@ -221,6 +222,7 @@ This repo contains my recon methodology for Bug Bounty Programms
    
 40.FIND SENSITIVE FILES IN WAYBACKURLS
    https://github.com/Dheerajmadhukar/back-me-up
+   https://github.com/remonsec/Pri0tx
    
 41.FIND HIDDEN ENDPOINTS INSIDE JAVASCRIPT FILES
    https://github.com/GerbenJavado/LinkFinder
