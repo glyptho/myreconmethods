@@ -7,6 +7,7 @@ This repo contains my recon methodology for Bug Bounty Programms
    RECONFTW,WAPITI,WPSCAN,
    https://github.com/j3ssie/Osmedeus
    https://github.com/Viralmaniar/BigBountyRecon gui recon
+   https://github.com/hackerspider1/Recon-bugbounty ==>
    https://github.com/R0X4R/Garud
    https://github.com/knassar702/scant3r
    https://github.com/ninoseki/mihari
@@ -30,11 +31,12 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/xerohackcom/webrecon
    https://github.com/yogeshojha/rengine
    https://github.com/robotshell/magicRecon
-   
+   https://github.com/c0dejump/HawkScan
    
    
 3. SUBDomain Enumaration tool:
    https://github.com/iamthefrogy/frogy
+   https://github.com/boy-hack/ksubdomain
    https://github.com/edoardottt/scilla
    https://github.com/Findomain/Findomain
    https://spyse.com/tools/subdomain-finder
@@ -67,6 +69,7 @@ This repo contains my recon methodology for Bug Bounty Programms
    
 7. CVELIST
    https://github.com/CVEProject/cvelist
+   https://github.com/trickest/cve
    
 8. Important Wordlists:
    Funny Fuzzing Wordlist
@@ -75,6 +78,7 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/emadshanab/WordLists-20111129
    https://github.com/six2dez/OneListForAll
    https://github.com/ayoubfathi/leaky-paths/blob/main/leaky-paths.txt
+   https://github.com/p0dalirius/webapp-wordlists
    
 9. API Endpoints & Objects
    https://gist.github.com/yassineaboukir/8e12adefbd505ef704674ad6ad48743d
@@ -116,10 +120,14 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/epinna/tplmap
    Check for Host-Header SSRF Attack on a single or multiple hosts
    https://github.com/abundov/mahost
+   https://github.com/In3tinct/See-SURF
+   https://github.com/daeken/httprebind
+   echo "https://checkout.stripe.com/api/color?image_url=" | nuclei -t ssrf.yaml {https://github.com/NagliNagli/BountyTricks}
    
 17.AUTOMATIC CHECK OPEN REDIRECT
    https://github.com/devanshbatham/OpenRedireX
    https://github.com/redcode-labs/UnChain
+   https://github.com/r0075h3ll/Oralyzer
    
 18. Hack Website Admin Panel
     https://github.com/glyptho/AdminHack
@@ -136,6 +144,10 @@ This repo contains my recon methodology for Bug Bounty Programms
     https://github.com/APTeamOfficial/APSoft-Web-Scanner-v2
     https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Google%20Dorks.md
     https://github.com/mxrch/GHunt
+    https://github.com/nerrorsec/GoogleDorker
+    https://github.com/TebbaaX/Katana
+    https://github.com/SKVNDR/FastDork
+    
     
  21.SHODAN DORKS
     https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Shodan%20Dorks.md    
@@ -153,6 +165,7 @@ This repo contains my recon methodology for Bug Bounty Programms
      https://github.com/UnkL4b/GitMiner
      https://github.com/daffainfo/Git-Secret
      https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Github%20Dorks.md
+     https://github.com/techgaun/github-dorks
      
 23.  PUT Method Exploit
      https://github.com/devploit/put2win
@@ -160,6 +173,9 @@ This repo contains my recon methodology for Bug Bounty Programms
      
 24.  BugBounty Tools
      https://forum.ywhack.com/bountytips.php?redteam
+     https://github.com/riramar/Web-Attack-Cheat-Sheet#Wayback-Machine
+     https://github.com/zPrototype/bugbounty_stuff
+     https://github.com/edoardottt/lit-bb-hack-tools
      
 25.   Directory bruteforce
       https://github.com/epi052/feroxbuster
@@ -183,6 +199,8 @@ This repo contains my recon methodology for Bug Bounty Programms
    
 30.Download .DS_STORE FIles
    https://github.com/lijiejie/ds_store_exp
+   Read .DS_STORE Files
+   https://w-e-b.site/
    
 31.DECRYPT STRINGS
    https://github.com/Ciphey/Ciphey
@@ -198,6 +216,7 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/boy-hack/w8fuckcdn
    https://github.com/Startr4ck/findip
    https://github.com/Dheerajmadhukar/Lilly
+   https://github.com/mrh0wl/Cloudmare
    
 34.DOM XSS FINDER
    https://github.com/dwisiswant0/findom-xss
@@ -207,6 +226,7 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/SharonBrizinov/s3viewer
    https://github.com/iamthefrogy/bucketbunny
    https://github.com/0xmoot/s3sec
+   https://github.com/subzero987/S3-Recon/blob/main/S3-Recon.txt
    
 36.LFI SCANNER
    https://github.com/mzfr/liffy
@@ -230,3 +250,66 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/dwisiswant0/galer#installation
    https://github.com/0x240x23elu/JSScanner
    https://github.com/m4ll0k/SecretFinder
+   https://github.com/Sachin-v3rma/Astra
+   
+42. Winddows PORT Scanner
+    https://github.com/elddy/NimScan
+    
+43. Jenkins server pentest
+    https://github.com/gquere/pwn_jenkins
+    
+44. FIND Github Subdomains
+    https://github.com/gwen001/github-subdomains
+    
+    
+45. Salesforce recon and Exploit Tool
+    https://github.com/reconstation/sret
+    
+    
+46. BURPSUITE SCANNERS
+    https://github.com/dbrwsky/Nuclei-BurpExtension
+    https://github.com/plenumlab/rce-finder
+    https://github.com/plenumlab/Imposteserum-extension
+    Burpsuite Graphql readable
+    https://github.com/plenumlab/GQL-Helper
+    Automatically identify deserialisation issues in Java and .NET
+    https://github.com/nccgroup/freddy
+    https://github.com/PortSwigger/http-request-smuggler
+    https://github.com/akabe1/OAUTHScan
+    
+47. XXE AUTOMATIC PAYLOAD EXPLOIT
+    https://github.com/plenumlab/xmp-xxe
+    
+48. wappalyzer USE FOR BULK URLS:
+    https://github.com/Zarcolio/2cmd
+    
+49. FIND SENSITIVE INFORMATION FROM ALIENWALT
+    https://github.com/0xsheinn/otx
+    https://github.com/remonsec/Pri0tx
+
+50. GENERATE SPECIFIC WORDLIST FOR A DOMAIN
+    https://github.com/th3hack3rwiz/Wordlist-Weaver
+    
+51. SETUP TOOLS AFTER KALI INSTALL
+https://github.com/root-tanishq/setmykali/blob/main/setmykali.sh
+
+52. Nagli Tips
+    https://github.com/NagliNagli/BountyTricks
+    
+53. GitHub Pages Sub-domain Takeover Automation!
+https://github.com/TheBinitGhimire/GH-Takeover
+
+54. JIRA SERVER PENTEST AUTOMATION
+    https://github.com/MayankPandey01/Jira-Lens
+    
+55.  HUNT WHILE YOU SLEEP
+     https://github.com/iamthefrogy/nerdbug
+     
+56. SHORT SAME PARAMETERS WITH DIFFERENT VALUE
+    https://github.com/s0md3v/uro
+    
+57. FIND DOM XSS
+    https://github.com/edoardottt/lit-bb-hack-tools/tree/main/doomxss
+    
+58. FIND client-side prototype pollution vulnerability written in Rust.
+    https://github.com/dwisiswant0/ppfuzz
