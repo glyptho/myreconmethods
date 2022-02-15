@@ -276,6 +276,7 @@ This repo contains my recon methodology for Bug Bounty Programms
     https://github.com/nccgroup/freddy
     https://github.com/PortSwigger/http-request-smuggler
     https://github.com/akabe1/OAUTHScan
+    https://github.com/SkewwG/BurpExtender
     
 47. XXE AUTOMATIC PAYLOAD EXPLOIT
     https://github.com/plenumlab/xmp-xxe
@@ -313,3 +314,6 @@ https://github.com/TheBinitGhimire/GH-Takeover
     
 58. FIND client-side prototype pollution vulnerability written in Rust.
     https://github.com/dwisiswant0/ppfuzz
+    
+59. Shiro<=1.2.4 deserialization, one-click detection tool
+    https://github.com/sv3nbeast/ShiroScan
