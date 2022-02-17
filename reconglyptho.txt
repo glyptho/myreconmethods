@@ -67,6 +67,7 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/fox-it/log4j-finder
    https://github.com/wyzxxz/jndi_tool
    
+   
 7. CVELIST
    https://github.com/CVEProject/cvelist
    https://github.com/trickest/cve
@@ -317,3 +318,9 @@ https://github.com/TheBinitGhimire/GH-Takeover
     
 59. Shiro<=1.2.4 deserialization, one-click detection tool
     https://github.com/sv3nbeast/ShiroScan
+    
+60. BULK SCAN TARGET WITH NMAP WITH DIFFERENT POPULAR TOOLS
+    https://github.com/snovvcrash/DivideAndScan
+    
+61. USE SHODAN TO SCAN IP AND VULNERABILITY
+    https://github.com/R0X4R/snetra
