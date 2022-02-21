@@ -9,6 +9,7 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/Viralmaniar/BigBountyRecon gui recon
    https://github.com/hackerspider1/Recon-bugbounty ==>
    https://github.com/R0X4R/Garud
+   https://github.com/gokulapap/Reconator
    https://github.com/knassar702/scant3r
    https://github.com/ninoseki/mihari
    https://github.com/1N3/Sn1per
@@ -71,6 +72,7 @@ This repo contains my recon methodology for Bug Bounty Programms
 7. CVELIST
    https://github.com/CVEProject/cvelist
    https://github.com/trickest/cve
+  
    
 8. Important Wordlists:
    Funny Fuzzing Wordlist
