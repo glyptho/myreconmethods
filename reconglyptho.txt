@@ -117,6 +117,7 @@ This repo contains my recon methodology for Bug Bounty Programms
    
 16.Automatic SSRF fuzzer and exploitation tool
    https://github.com/swisskyrepo/SSRFmap
+   https://github.com/0xAwali/Blind-SSRF
    https://github.com/ksharinarayanan/SSRFire
    https://github.com/abundov/mahost
    https://github.com/knassar702/lorsrf
