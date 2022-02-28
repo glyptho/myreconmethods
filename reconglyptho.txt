@@ -33,6 +33,8 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/yogeshojha/rengine
    https://github.com/robotshell/magicRecon
    https://github.com/c0dejump/HawkScan
+   https://github.com/gokulapap/Reconator ==> GUI BASED RECON
+   https://github.com/loecho-sec/All-in-XrayScan ==> ALL XXS,XXE,CMD,SQLI and more vuln scanner
    
    
 3. SUBDomain Enumaration tool:
@@ -72,6 +74,7 @@ This repo contains my recon methodology for Bug Bounty Programms
 7. CVELIST
    https://github.com/CVEProject/cvelist
    https://github.com/trickest/cve
+   https://github.com/helloexp/0day
   
    
 8. Important Wordlists:
@@ -107,6 +110,7 @@ This repo contains my recon methodology for Bug Bounty Programms
 13.HTTP Request smuggling tool
    https://github.com/danielthatcher/smuggles
    https://github.com/defparam/smuggler
+   https://github.com/Sh1Yo/request_smuggler
    
 14. Shiro RememberMe 1.2.4 Deserialization Vulnerability Graphical Detection Tool (Shiro-550)
     https://github.com/fupinglee/ShiroScan
@@ -171,6 +175,7 @@ This repo contains my recon methodology for Bug Bounty Programms
      https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Github%20Dorks.md
      https://github.com/techgaun/github-dorks
      
+     
 23.  PUT Method Exploit
      https://github.com/devploit/put2win
      
@@ -180,6 +185,7 @@ This repo contains my recon methodology for Bug Bounty Programms
      https://github.com/riramar/Web-Attack-Cheat-Sheet#Wayback-Machine
      https://github.com/zPrototype/bugbounty_stuff
      https://github.com/edoardottt/lit-bb-hack-tools
+     https://github.com/trimstray/the-book-of-secret-knowledge
      
 25.   Directory bruteforce
       https://github.com/epi052/feroxbuster
@@ -281,6 +287,7 @@ This repo contains my recon methodology for Bug Bounty Programms
     https://github.com/PortSwigger/http-request-smuggler
     https://github.com/akabe1/OAUTHScan
     https://github.com/SkewwG/BurpExtender
+    https://github.com/projectdiscovery/nuclei-burp-plugin
     
 47. XXE AUTOMATIC PAYLOAD EXPLOIT
     https://github.com/plenumlab/xmp-xxe
@@ -318,6 +325,7 @@ https://github.com/TheBinitGhimire/GH-Takeover
     
 58. FIND client-side prototype pollution vulnerability written in Rust.
     https://github.com/dwisiswant0/ppfuzz
+    https://github.com/kosmosec/proto-find
     
 59. Shiro<=1.2.4 deserialization, one-click detection tool
     https://github.com/sv3nbeast/ShiroScan
@@ -326,4 +334,13 @@ https://github.com/TheBinitGhimire/GH-Takeover
     https://github.com/snovvcrash/DivideAndScan
     
 61. USE SHODAN TO SCAN IP AND VULNERABILITY
+    https://github.com/R0X4R/snetra
+    
+62. Download .git Directory
+    https://github.com/WangYihang/GitHacker
+    
+63. EMAIL OSINT
+    https://github.com/m4ll0k/Infoga
+
+64. A Python based scanner uses shodan-internetdb to scan the IP.
     https://github.com/R0X4R/snetra
