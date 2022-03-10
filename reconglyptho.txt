@@ -354,3 +354,6 @@ https://github.com/TheBinitGhimire/GH-Takeover
     
 67. FIND HEADER BASED BLIND XSS USING XSSHUNTER PAYLOAD
     https://github.com/adrianscheff/pegaxss
+    
+68. FIND HARDCODE SECRETS IN ANDROID
+    https://github.com/arijitdirghanji/Find-Hardcoded?s=09
