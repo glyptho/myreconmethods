@@ -351,3 +351,6 @@ https://github.com/TheBinitGhimire/GH-Takeover
 
 66. DOWNLOAD .SVN FOLDER
     https://github.com/anantshri/svn-extractor
+    
+67. FIND HEADER BASED BLIND XSS USING XSSHUNTER PAYLOAD
+    https://github.com/adrianscheff/pegaxss
