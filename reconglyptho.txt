@@ -357,3 +357,6 @@ https://github.com/TheBinitGhimire/GH-Takeover
     
 68. FIND HARDCODE SECRETS IN ANDROID
     https://github.com/arijitdirghanji/Find-Hardcoded?s=09
+    
+69. ==> EXTERNAL SSRF AND BLIND SSRF EXPLOIT
+    https://twitter.com/wugeej/status/1138639681543819264?t=CEIyGP15Oed50DRSYSP3ng
