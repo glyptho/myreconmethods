@@ -254,6 +254,7 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/Dheerajmadhukar/back-me-up
    https://github.com/remonsec/Pri0tx
    sudo mv otx /usr/bin/otx
+   https://github.com/h33tlit/Jbin-website-secret-scraper
    
 41.FIND HIDDEN ENDPOINTS INSIDE JAVASCRIPT FILES
    https://github.com/GerbenJavado/LinkFinder
@@ -344,3 +345,9 @@ https://github.com/TheBinitGhimire/GH-Takeover
 
 64. A Python based scanner uses shodan-internetdb to scan the IP.
     https://github.com/R0X4R/snetra
+    
+    FIND Nginx misconfigurations and vulnerabilities.
+65. https://github.com/stark0de/nginxpwner
+
+66. DOWNLOAD .SVN FOLDER
+    https://github.com/anantshri/svn-extractor
