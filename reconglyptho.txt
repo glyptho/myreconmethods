@@ -370,3 +370,8 @@ https://github.com/TheBinitGhimire/GH-Takeover
     
 72. REDIS RCE
     https://github.com/zyylhn/redis_rce
+    
+73. JShell - Get a JavaScript shell with XSS.
+    https://github.com/s0md3v/JShell
+    https://github.com/threedr3am/JSP-WebShells
+    https://github.com/feihong-cs/Java-Rce-Echo
