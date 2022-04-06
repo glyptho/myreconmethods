@@ -393,4 +393,7 @@ https://github.com/TheBinitGhimire/GH-Takeover
     https://github.com/Bandit-HaxUnit/haxunit
     
 79. NUCLEI ALTERNATIVE
-     https://github.com/cckuailong/pocsploit
+    https://github.com/cckuailong/pocsploit
+     
+80. Jeeves SQLI Finder
+    https://github.com/ferreiraklet/Jeeves
