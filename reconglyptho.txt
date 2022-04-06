@@ -69,6 +69,7 @@ This repo contains my recon methodology for Bug Bounty Programms
    https://github.com/trickest/log4j
    https://github.com/fox-it/log4j-finder
    https://github.com/wyzxxz/jndi_tool
+   https://github.com/thecyberneh/Log4j-RCE-Exploiter
    
    
 7. CVELIST
@@ -371,7 +372,25 @@ https://github.com/TheBinitGhimire/GH-Takeover
 72. REDIS RCE
     https://github.com/zyylhn/redis_rce
     
-73. JShell - Get a JavaScript shell with XSS.
+73. Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+    https://github.com/edoardottt/cariddi
+    
+74. JShell - Get a JavaScript shell with XSS.
     https://github.com/s0md3v/JShell
     https://github.com/threedr3am/JSP-WebShells
     https://github.com/feihong-cs/Java-Rce-Echo
+    
+75. Injects php payloads into jpeg images
+    https://github.com/dlegs/php-jpeg-injector
+    
+76. A cool python exploit to spoof your payload into another extension like pdf, docx, png, jpg, mp3, etc.
+    https://github.com/vesperlol/Extension-Spoofer
+
+77. A crawler that tests HTML forms for reflection
+    https://github.com/garlic0x1/go-reflect
+    
+78. HaxUnit combines multiple active and passive subdomain enumeration tools and port scanning tools with vulnerability discovery tools.
+    https://github.com/Bandit-HaxUnit/haxunit
+    
+79. NUCLEI ALTERNATIVE
+     https://github.com/cckuailong/pocsploit
