@@ -397,3 +397,6 @@ https://github.com/TheBinitGhimire/GH-Takeover
      
 80. Jeeves SQLI Finder
     https://github.com/ferreiraklet/Jeeves
+    
+81. Find all vulnerabilities in apache server or websites running apache
+    https://github.com/p0dalirius/ApacheTomcatScanner
