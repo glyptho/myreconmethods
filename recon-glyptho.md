@@ -198,7 +198,8 @@ https://github.com/cyb3rd0g-cell/automation-bugBounty ==> SSRF ONELINER FROM WAY
 
      
  22. Git Secret Find
-`     https://github.com/daffainfo/Git-Secret
+```
+     https://github.com/daffainfo/Git-Secret
      https://github.com/obheda12/GitDorker
      https://github.com/glyptho/gitGraber
      https://github.com/molly/gh-dork
@@ -209,80 +210,111 @@ https://github.com/cyb3rd0g-cell/automation-bugBounty ==> SSRF ONELINER FROM WAY
      https://github.com/UnkL4b/GitMiner
      https://github.com/daffainfo/Git-Secret
      https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Github%20Dorks.md
-     https://github.com/techgaun/github-dorks`
-     
+     https://github.com/techgaun/github-dorks
+```     
      
 23.  PUT Method Exploit
+```
      https://github.com/devploit/put2win
-     
+```     
      
 24.  BugBounty Tools
+```
      https://forum.ywhack.com/bountytips.php?redteam
      https://github.com/riramar/Web-Attack-Cheat-Sheet#Wayback-Machine
      https://github.com/zPrototype/bugbounty_stuff
      https://github.com/edoardottt/lit-bb-hack-tools
      https://github.com/trimstray/the-book-of-secret-knowledge
-     
+```
+
 25.   Directory bruteforce
+```
       https://github.com/epi052/feroxbuster
+```
       
 26.Find XSS Automatically
+```
    https://github.com/Encryptor-Sec/XSSearch
-   
+```
+
 27.403 BYPASS
+```
    https://github.com/devploit/dontgo403
    https://github.com/yunemse48/403bypasser
    https://github.com/Dheerajmadhukar/4-ZERO-3
    https://github.com/M4DM0e/DirDar
    https://github.com/lobuhi/byp4xx
-   
+```
+
 28.osint search
+```
    https://github.com/jivoi/awesome-osint
    https://github.com/KingOfBugbounty/KingOfBugBountyTips
-   
+```
+
 29.Download .git directory
+```
    https://github.com/internetwache/GitTools
-   
+```
+
 30.Download .DS_STORE FIles
+```
    https://github.com/lijiejie/ds_store_exp
    Read .DS_STORE Files
    https://w-e-b.site/
+```
    
 31.DECRYPT STRINGS
+```
    https://github.com/Ciphey/Ciphey
-   
+```
+
 32.SQLI INJECTION
+```
    https://github.com/ArkAngeL43/sqlifinder
    https://github.com/MR-pentestGuy/Blind-sqli
    https://github.com/JohnTroony/Blisqy
    https://github.com/zeronine9/Blind_SPOT
-   
+```
+
 33.FIND ORIGINAL IP BEHIND WAF
+```
    https://github.com/christophetd/CloudFlair
    https://github.com/boy-hack/w8fuckcdn
    https://github.com/Startr4ck/findip
    https://github.com/Dheerajmadhukar/Lilly
    https://github.com/mrh0wl/Cloudmare
-   
+```
+
 34.DOM XSS FINDER
+```
    https://github.com/dwisiswant0/findom-xss
    https://github.com/swoops/eval_villain
-   
+```
+
 35.S3 VIEWER GUI
+```
    https://github.com/SharonBrizinov/s3viewer
    https://github.com/iamthefrogy/bucketbunny
    https://github.com/0xmoot/s3sec
    https://github.com/subzero987/S3-Recon/blob/main/S3-Recon.txt
-   
+```
+
 36.LFI SCANNER
+```
    https://github.com/mzfr/liffy
-   
+```
+
 37.BLIND XSS TESTING
+```
    https://github.com/emadshanab/Blind-xss-via-ffuf
+```
    
 38.BUG BOUNTY DORKS
+```
    https://github.com/sushiwushi/bug-bounty-dorks
-   
+```
+
 39.DIRECTORY BRUTEFORCE
    https://github.com/epi052/feroxbuster
    
