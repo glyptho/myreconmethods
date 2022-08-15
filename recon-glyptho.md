@@ -68,7 +68,7 @@ This repo contains my recon methodology for Bug Bounty Programms**
    https://github.com/TheBinitGhimire/NtHiM
    https://github.com/ethicalhackingplayground/SubNuke
 ```
-
+```
 6. Log4Shell Check:
    https://github.com/fullhunt/log4j-scan
    https://github.com/zhzyker/logmap
@@ -76,15 +76,17 @@ This repo contains my recon methodology for Bug Bounty Programms**
    https://github.com/fox-it/log4j-finder
    https://github.com/wyzxxz/jndi_tool
    https://github.com/thecyberneh/Log4j-RCE-Exploiter
-   
+```   
    
 7. CVELIST
+```
    https://github.com/CVEProject/cvelist
    https://github.com/trickest/cve
    https://github.com/helloexp/0day
-  
+```  
    
 8. Important Wordlists:
+```
    Funny Fuzzing Wordlist
    https://github.com/koaj/ffw-content-discovery
    https://github.com/aels/subdirectories-discover
@@ -92,12 +94,16 @@ This repo contains my recon methodology for Bug Bounty Programms**
    https://github.com/six2dez/OneListForAll
    https://github.com/ayoubfathi/leaky-paths/blob/main/leaky-paths.txt
    https://github.com/p0dalirius/webapp-wordlists
+```
    
 9. API Endpoints & Objects
+```
    https://gist.github.com/yassineaboukir/8e12adefbd505ef704674ad6ad48743d
    https://github.com/danielmiessler/SecLists
+```
    
 10.Nuclei Templates
+```
    https://github.com/geeknik/the-nuclei-templates
    https://github.com/ethicalhackingplayground/erebus
    https://github.com/trickest/log4j
@@ -106,27 +112,38 @@ This repo contains my recon methodology for Bug Bounty Programms**
    https://github.com/emadshanab/Nuclei-Templates-Collection
    https://github.com/sharathkramadas/k8s-nuclei-templates
    https://github.com/projectdiscovery/nuclei-templates
-   
+```
+
 11. Web Cache Vulnerability Scanner (WCVS)
+```
     https://github.com/glyptho/Web-Cache-Vulnerability-Scanner
     https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner
+```
     
 12. A fast tool to scan CRLF vulnerability written in Go
+```
     https://github.com/dwisiswant0/crlfuzz
+```
    
 13.HTTP Request smuggling tool
+```
    https://github.com/danielthatcher/smuggles
    https://github.com/defparam/smuggler
    https://github.com/Sh1Yo/request_smuggler
+```
    
 14. Shiro RememberMe 1.2.4 Deserialization Vulnerability Graphical Detection Tool (Shiro-550)
+```
     https://github.com/fupinglee/ShiroScan
-
-   
+```
+  
 15.Java RMI Vulnerability Scanner
+```
    https://github.com/qtc-de/remote-method-guesser
+```
    
 16.Automatic SSRF fuzzer and exploitation tool
+```
 https://github.com/cyb3rd0g-cell/automation-bugBounty ==> SSRF ONELINER FROM WAYBACKURL
    https://github.com/swisskyrepo/SSRFmap
    https://github.com/0xAwali/Blind-SSRF
@@ -139,22 +156,30 @@ https://github.com/cyb3rd0g-cell/automation-bugBounty ==> SSRF ONELINER FROM WAY
    https://github.com/In3tinct/See-SURF
    https://github.com/daeken/httprebind
    echo "https://checkout.stripe.com/api/color?image_url=" | nuclei -t ssrf.yaml {https://github.com/NagliNagli/BountyTricks}
+```
    
 17.AUTOMATIC CHECK OPEN REDIRECT
+```
    https://github.com/devanshbatham/OpenRedireX
    https://github.com/redcode-labs/UnChain
    https://github.com/r0075h3ll/Oralyzer
+```
    
 18. Hack Website Admin Panel
+```
     https://github.com/glyptho/AdminHack
+```
     
 19. Secret Key Finder
+```
     https://github.com/rsbarsania/secret_key_finder
     https://github.com/nsonaniya2010/SubDomainizer
     https://github.com/rsbarsania/secret_key_finder
+```
     
     
   20.GOOGLE DORKS
+ ```
     https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan
     https://github.com/dievus/msdorkdump
     https://github.com/APTeamOfficial/APSoft-Web-Scanner-v2
@@ -163,10 +188,13 @@ https://github.com/cyb3rd0g-cell/automation-bugBounty ==> SSRF ONELINER FROM WAY
     https://github.com/nerrorsec/GoogleDorker
     https://github.com/TebbaaX/Katana
     https://github.com/SKVNDR/FastDork
+```
     
     
  21.SHODAN DORKS
+```
     https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Shodan%20Dorks.md    
+```
 
      
  22. Git Secret Find
