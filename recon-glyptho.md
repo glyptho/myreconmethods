@@ -198,7 +198,7 @@ https://github.com/cyb3rd0g-cell/automation-bugBounty ==> SSRF ONELINER FROM WAY
 
      
  22. Git Secret Find
-     https://github.com/daffainfo/Git-Secret
+`     https://github.com/daffainfo/Git-Secret
      https://github.com/obheda12/GitDorker
      https://github.com/glyptho/gitGraber
      https://github.com/molly/gh-dork
@@ -209,7 +209,7 @@ https://github.com/cyb3rd0g-cell/automation-bugBounty ==> SSRF ONELINER FROM WAY
      https://github.com/UnkL4b/GitMiner
      https://github.com/daffainfo/Git-Secret
      https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Github%20Dorks.md
-     https://github.com/techgaun/github-dorks
+     https://github.com/techgaun/github-dorks`
      
      
 23.  PUT Method Exploit
