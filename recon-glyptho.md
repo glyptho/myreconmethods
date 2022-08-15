@@ -4,6 +4,7 @@ This repo contains my recon methodology for Bug Bounty Programms**
 1. Find the Suitable Targer and Scope of the target.
 
 2. Now use automated tools for recon.
+```
    RECONFTW,WAPITI,WPSCAN,
    https://github.com/j3ssie/Osmedeus
    https://github.com/Viralmaniar/BigBountyRecon gui recon
@@ -35,9 +36,10 @@ This repo contains my recon methodology for Bug Bounty Programms**
    https://github.com/c0dejump/HawkScan
    https://github.com/gokulapap/Reconator ==> GUI BASED RECON
    https://github.com/loecho-sec/All-in-XrayScan ==> ALL XXS,XXE,CMD,SQLI and more vuln scanner
-   
+```  
    
 3. SUBDomain Enumaration tool:
+```
    https://github.com/iamthefrogy/frogy
    https://github.com/boy-hack/ksubdomain
    https://github.com/edoardottt/scilla
@@ -48,21 +50,25 @@ This repo contains my recon methodology for Bug Bounty Programms**
    http://tools.bugscaner.com/subdomain/
    http://tool.chinaz.com/subdomain/
    https://github.com/gwen001/github-subdomains
-   
+```   
    
 4. Find Parameters for Domain and Subdomain from webarchieve
+```
    https://github.com/devanshbatham/ParamSpider
    https://github.com/GerbenJavado/LinkFinder
    https://github.com/Sh1Yo/x8
    https://github.com/s0md3v/Arjun
+```
    
 5. SUBDomain Takeover check:
+```
    https://github.com/r3curs1v3-pr0xy/sub404
    https://github.com/m4ll0k/takeover
    https://github.com/TheBinitGhimire/GH-Takeover
    https://github.com/TheBinitGhimire/NtHiM
    https://github.com/ethicalhackingplayground/SubNuke
-   
+```
+
 6. Log4Shell Check:
    https://github.com/fullhunt/log4j-scan
    https://github.com/zhzyker/logmap
