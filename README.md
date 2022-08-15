@@ -1,2 +1,3 @@
 # myreconmethods
-This includes the methods of recon and exploit for Bug Bounty.
+
+This repo includes the methods of recon and exploit for Bug Bounty.
