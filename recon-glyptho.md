@@ -1,5 +1,5 @@
-Hello,
-This repo contains my recon methodology for Bug Bounty Programms
+**Hello,
+This repo contains my recon methodology for Bug Bounty Programms**
 
 1. Find the Suitable Targer and Scope of the target.
 
