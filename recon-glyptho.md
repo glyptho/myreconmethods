@@ -316,36 +316,57 @@ https://github.com/cyb3rd0g-cell/automation-bugBounty ==> SSRF ONELINER FROM WAY
 ```
 
 39.DIRECTORY BRUTEFORCE
+```
    https://github.com/epi052/feroxbuster
+```
    
 40.FIND SENSITIVE FILES IN WAYBACKURLS
+```
    https://github.com/Dheerajmadhukar/back-me-up
    https://github.com/remonsec/Pri0tx
    sudo mv otx /usr/bin/otx
    https://github.com/h33tlit/Jbin-website-secret-scraper
+```
    
 41.FIND HIDDEN ENDPOINTS INSIDE JAVASCRIPT FILES
+```
    https://github.com/GerbenJavado/LinkFinder
    https://github.com/dwisiswant0/galer#installation
    https://github.com/0x240x23elu/JSScanner
    https://github.com/m4ll0k/SecretFinder
    https://github.com/Sachin-v3rma/Astra
+```
+   
    
 42. Winddows PORT Scanner
+```
     https://github.com/elddy/NimScan
+```
+    
     
 43. Jenkins server pentest
+```
     https://github.com/gquere/pwn_jenkins
+```
+    
     
 44. FIND Github Subdomains
+```
     https://github.com/gwen001/github-subdomains
+```
+    
     
     
 45. Salesforce recon and Exploit Tool
+```
     https://github.com/reconstation/sret
+```
+    
     
     
 46. BURPSUITE SCANNERS
+```
+
     https://github.com/dbrwsky/Nuclei-BurpExtension
     https://github.com/plenumlab/rce-finder
     https://github.com/plenumlab/Imposteserum-extension
@@ -357,112 +378,201 @@ https://github.com/cyb3rd0g-cell/automation-bugBounty ==> SSRF ONELINER FROM WAY
     https://github.com/akabe1/OAUTHScan
     https://github.com/SkewwG/BurpExtender
     https://github.com/projectdiscovery/nuclei-burp-plugin
+```
+
     
 47. XXE AUTOMATIC PAYLOAD EXPLOIT
+```
     https://github.com/plenumlab/xmp-xxe
+```
+    
     
 48. wappalyzer USE FOR BULK URLS:
+```
     https://github.com/Zarcolio/2cmd
+```
+
     
 49. FIND SENSITIVE INFORMATION FROM ALIENWALT
+```
     https://github.com/0xsheinn/otx
     https://github.com/remonsec/Pri0tx
+```
+
 
 50. GENERATE SPECIFIC WORDLIST FOR A DOMAIN
+```
     https://github.com/th3hack3rwiz/Wordlist-Weaver
+```
+ 
     
 51. SETUP TOOLS AFTER KALI INSTALL
+```
 https://github.com/root-tanishq/setmykali/blob/main/setmykali.sh
+```
+
 
 52. Nagli Tips
+```
     https://github.com/NagliNagli/BountyTricks
+```
+ 
     
 53. GitHub Pages Sub-domain Takeover Automation!
+```
 https://github.com/TheBinitGhimire/GH-Takeover
+```
+
 
 54. JIRA SERVER PENTEST AUTOMATION
+```
     https://github.com/MayankPandey01/Jira-Lens
+```
+ 
     
 55.  HUNT WHILE YOU SLEEP
+```
      https://github.com/iamthefrogy/nerdbug
+```
+     
      
 56. SHORT SAME PARAMETERS WITH DIFFERENT VALUE
+```
     https://github.com/s0md3v/uro
+```
     
 57. FIND DOM XSS
+```
     https://github.com/edoardottt/lit-bb-hack-tools/tree/main/doomxss
+```
+    
     
 58. FIND client-side prototype pollution vulnerability written in Rust.
+```
     https://github.com/dwisiswant0/ppfuzz
     https://github.com/kosmosec/proto-find
+```
+    
     
 59. Shiro<=1.2.4 deserialization, one-click detection tool
+```
     https://github.com/sv3nbeast/ShiroScan
+```
+    
     
 60. BULK SCAN TARGET WITH NMAP WITH DIFFERENT POPULAR TOOLS
+```
     https://github.com/snovvcrash/DivideAndScan
+```
+    
     
 61. USE SHODAN TO SCAN IP AND VULNERABILITY
+```
     https://github.com/R0X4R/snetra
+```
+ 
     
 62. Download .git Directory
+```
     https://github.com/WangYihang/GitHacker
+```
+ 
     
 63. EMAIL OSINT
+```
     https://github.com/m4ll0k/Infoga
+```
+    
 
 64. A Python based scanner uses shodan-internetdb to scan the IP.
+```
     https://github.com/R0X4R/snetra
+```
     
-    FIND Nginx misconfigurations and vulnerabilities.
-65. https://github.com/stark0de/nginxpwner
+    
+65.    FIND Nginx misconfigurations and vulnerabilities.
+```
+ https://github.com/stark0de/nginxpwner
+ ```
 
 66. DOWNLOAD .SVN FOLDER
+```
     https://github.com/anantshri/svn-extractor
+```
     
 67. FIND HEADER BASED BLIND XSS USING XSSHUNTER PAYLOAD
+```
     https://github.com/adrianscheff/pegaxss
+```
     
 68. FIND HARDCODE SECRETS IN ANDROID
+```
     https://github.com/arijitdirghanji/Find-Hardcoded?s=09
+```
     
 69. ==> EXTERNAL SSRF AND BLIND SSRF EXPLOIT
+```
     https://twitter.com/wugeej/status/1138639681543819264?t=CEIyGP15Oed50DRSYSP3ng
+```
     
 70. GENERATE UNDETECT WEBSHELL
+```
     https://github.com/czz1233/GBByPass
+```
     
 71. FIND IPS OF A TARGET DOMAIN AND SCAN USING NUCLEI DIRECTLY
+```
     https://github.com/asaotomo/FofaMap
+```
     
 72. REDIS RCE
+```
     https://github.com/zyylhn/redis_rce
+```
     
 73. Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+```
     https://github.com/edoardottt/cariddi
+```
     
 74. JShell - Get a JavaScript shell with XSS.
+```
     https://github.com/s0md3v/JShell
     https://github.com/threedr3am/JSP-WebShells
     https://github.com/feihong-cs/Java-Rce-Echo
+```
     
 75. Injects php payloads into jpeg images
+```
     https://github.com/dlegs/php-jpeg-injector
+```
     
 76. A cool python exploit to spoof your payload into another extension like pdf, docx, png, jpg, mp3, etc.
+```
     https://github.com/vesperlol/Extension-Spoofer
+```
 
 77. A crawler that tests HTML forms for reflection
+```
     https://github.com/garlic0x1/go-reflect
+```
     
 78. HaxUnit combines multiple active and passive subdomain enumeration tools and port scanning tools with vulnerability discovery tools.
+```
     https://github.com/Bandit-HaxUnit/haxunit
+```
     
 79. NUCLEI ALTERNATIVE
+```
     https://github.com/cckuailong/pocsploit
+```
      
 80. Jeeves SQLI Finder
+```
     https://github.com/ferreiraklet/Jeeves
+```
     
 81. Find all vulnerabilities in apache server or websites running apache
+```
     https://github.com/p0dalirius/ApacheTomcatScanner
+```
